@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C64 Swarm | The Ultimate 8-Bit Pair Programmer</title>
+    <style>
+        :root {
+            --copper: #b87333;
+            --brass: #e1b378;
+            --teal-dark: #1a2a2d;
+            --glow-orange: #ff8c00;
+            --crt-green: #33ff33;
+        }
+
+        body {
+            background-color: var(--teal-dark);
+            color: var(--brass);
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(180deg, rgba(0,0,0,0.5) 0%, transparent 100%);
+            padding: 4rem 2rem;
+            text-align: center;
+            border-bottom: 2px solid var(--copper);
+        }
+
+        .hero-img {
+            width: 300px;
+            height: 300px;
+            border: 8px solid var(--copper);
+            border-radius: 20px;
+            box-shadow: 0 0 20px var(--glow-orange);
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 3rem;
+            color: var(--glow-orange);
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin: 0;
+        }
+
+        .tagline {
+            font-style: italic;
+            font-size: 1.2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1.5rem;
+            border-left: 4px solid var(--copper);
+            border-radius: 4px;
+        }
+
+        .card h3 {
+            color: var(--glow-orange);
+            margin-top: 0;
+        }
+
+        .btn {
+            display: inline-block;
+            background: var(--copper);
+            color: var(--teal-dark);
+            padding: 1rem 2rem;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 4px;
+            margin-top: 2rem;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: var(--glow-orange);
+            box-shadow: 0 0 15px var(--glow-orange);
+        }
+
+        footer {
+            text-align: center;
+            padding: 4rem;
+            font-size: 0.8rem;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div style="font-size: 100px;"><img src="c64dev.png" height="400px" /></div> 
+    <h1>C64 SWARM</h1>
+    <p class="tagline">All the Skills you need for modern AI Swarm programming for your Commodore 64.</p>
+</header>
+
+<div class="container">
+    <section>
+        <h2>The Environment for the Modern Hacker</h2>
+        <p>C64 Swarm is a specialized development environment designed to bridge the gap between modern AI intelligence and the raw power of the Commodore 64. Whether you are coding a stable raster interrupt or a complex GEOS application, your steampunk pair-programmer is ready to assist.</p>
+        
+        <div class="feature-grid">
+            <div class="card">
+                <h3>Expert Logic</h3>
+                <p>Built-in skills for Kick Assembler, VIC-II timing, and REU management.</p>
+            </div>
+            <div class="card">
+                <h3>Asset Pipeline</h3>
+                <p>Automated bridges from Aseprite to .prg and .d64 disk mastering.</p>
+            </div>
+        </div>
+
+        <a href="https://github.com/bbsbot/ultimate-64-dev" class="btn">BOOTSTRAP ENVIRONMENT</a>
+    </section>
+</div>
+
+<footer>
+    READY.<br>
+    LOAD "*",8,1
+</footer>
+
+</body>
+</html>
