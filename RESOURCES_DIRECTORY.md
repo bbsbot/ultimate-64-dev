@@ -28,6 +28,7 @@
 ## 📡 Hardware & Modern Connectivity
 | Tool | Description | Official Link |
 | :--- | :--- | :--- |
+| **Commodore 64 Ultimate (C64U)** | Official Commodore Ultimate 64 site. | [Commodore.net](https://commodore.net/) |
 | **Ultimate 64 (U64)** | Modern FPGA C64 implementation with Ethernet/REU. | [Gideon's Logic](https://ultimate64.com/) |
 | **c64u-mcp-server** | Python-based server to send files over network to U64. | [GitHub - c64u-mcp](https://github.com/abbayne/c64u-mcp-server) |
 
