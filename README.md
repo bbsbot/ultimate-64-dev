@@ -1,14 +1,8 @@
-Creating a professional `README.md` for this repository is about moving the user from **curiosity** to **execution**. It needs to highlight that this isn't just a collection of code—it's a "living" development environment where Claude Code acts as the Senior Engineer.
-
-Here is a proposed `README.md` that leverages your blueprint and the new "Auto-Bootstrap" philosophy.
-
----
-
 # 🕹️ C64 AI Development Swarm
 
 **The ultimate "Zero-to-Hero" repository for Commodore 64 development. Powered by Claude Code.**
 
-This repository transforms [Claude Code]() into a world-class Commodore 64 Development Team. Whether you are a seasoned assembly veteran or a complete beginner who just wants to build their first game, this repo provides the **Skills**, **Personas**, and **Automated Toolchains** to make it happen.
+This repository transforms [Claude Code]() into a world-class Commodore 64 Development Team. Whether you are a seasoned assembly veteran or a complete beginner who just wants to build their first game, this repo provides the **Skills**, **Personas**, and **Automated Toolchains** to make it happen.  [More Resources here](RESOURCES_DIRECTORY.md)
 
 ## 🚀 The "One-Command" Vision
 
@@ -95,6 +89,7 @@ Claude will automatically generate the canonical C64 project structure:
 | **`skills/graphics-vic-ii/`** | Master-class routines for sprite multiplexing and raster timing. |
 | **`skills/communication-bbs/`** | RS232 drivers and PETSCII protocols for terminal/BBS apps. |
 | **`skills/asset-pipeline/`** | Automation for Aseprite (via Pixel Plugin) and Disk Management. |
+| **`RESOURCE_DIRECTORY.md`** | Links to Commodore 64 hardware and software resources. |
 
 ---
 
