@@ -30,10 +30,10 @@
 | :--- | :--- | :--- |
 | **Commodore 64 Ultimate (C64U)** | Official Commodore Ultimate 64 site. | [Commodore.net](https://commodore.net/) |
 | **Ultimate 64 (U64)** | Modern FPGA C64 implementation with Ethernet/REU. | [Gideon's Logic](https://ultimate64.com/) |
-| **c64u-mcp-server** | Python-based server to send files over network to U64. | [GitHub - c64u-mcp](https://github.com/abbayne/c64u-mcp-server) |
+| **c64u-mcp-server** | Python-based server to send files over network to U64. | [GitHub - c64u-mcp](https://github.com/xphileby/c64u-mcp-server) |
 
 ## 📚 Documentation & Reference
-- **C64 Programmer's Reference Guide:** The definitive manual for the machine. [Internet Archive](https://archive.org/details/c64-programmer-ref-guide)
+- **C64 Programmer's Reference Guide:** The definitive manual for the machine. [Internet Archive](https://archive.org/search?query=Commodore+64+programmers+reference+guide)
 - **C64 Wiki:** Comprehensive hardware and software reference. [C64-Wiki.com](https://www.c64-wiki.com/)
-- **Compute!'s Mapping the C64:** Guide to every memory address. [Internet Archive](https://archive.org/details/mapping-the-64)
-- **GEOS Tech Manual:** Essential for GEOS Kernel development. [Lyonlabs GEOS Docs](http://www.lyonlabs.org/commodore/geos/index.html)
+- **Compute!'s Mapping the C64:** Guide to every memory address. [Internet Archive](https://archive.org/search?query=Compute+Mapping+the+C64)
+- **GEOS Programmer's Manual:** Essential for GEOS Kernel development. [Internet Archive](https://archive.org/details/The_Official_GEOS_Programmers_Reference_Guide)
